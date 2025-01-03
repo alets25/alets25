@@ -1,5 +1,9 @@
 # 💫 Acerca de mí:
-Apasionado por la programación y la tecnología que hace la vida más fácil. Me encanta explorar cómo la innovación puede mejorar el día a día de las personas. Gamer en mis ratos libres y amante de los perros y gatos. Siempre buscando aprender algo nuevo y divertido.<br>Soy ingeniero en sistemas con 10 años de experiencia en desarrollo de software y una pasión por crear soluciones tecnológicas que realmente impacten el día a día de las personas. Me encanta trabajar en proyectos donde la innovación se cruza con lo práctico, porque creo que la tecnología debe ser una herramienta para mejorar nuestras vidas.<br>Además de programar, soy un gran fan de los videojuegos, especialmente de Nintendo (¡sí, crecí con Mario y Zelda!). Cuando no estoy frente a una computadora, probablemente estoy disfrutando del tiempo con mis animalitos ( perro y gatos) y mi familia, que siempre me recuerdan la importancia de los pequeños momentos.<br>Siempre estoy buscando aprender, colaborar y explorar nuevas ideas que puedan marcar la diferencia. Si compartimos intereses o simplemente quieres charlar sobre desarrollo, videojuegos o tecnología, ¡hablemos!
+Apasionado por la programación y la tecnología que hace la vida más fácil. Me encanta explorar cómo la innovación puede mejorar el día a día de las personas. Gamer en mis ratos libres y amante de los perros y gatos.Siempre buscando aprender algo nuevo y divertido.
+
+Soy ingeniero en sistemas con 10 años de experiencia en desarrollo de software y una pasión por crear soluciones tecnológicas que realmente impacten el día a día de las personas. Me encanta trabajar en proyectos donde la innovación se cruza con lo práctico, porque creo que la tecnología debe ser una herramienta para mejorar nuestras vidas.
+
+Además de programar, soy un gran fan de los videojuegos, especialmente de Nintendo (¡sí, crecí con Mario y Zelda!). Cuando no estoy frente a una computadora, probablemente estoy disfrutando del tiempo con mis animalitos ( perro y gatos) y mi familia, que siempre me recuerdan la importancia de los pequeños momentos.Siempre estoy buscando aprender, colaborar y explorar nuevas ideas que puedan marcar la diferencia. Si compartimos intereses o simplemente quieres charlar sobre desarrollo, videojuegos o tecnología, ¡hablemos!
 
 
 ## 🌐 Redes Sociales:
@@ -10,7 +14,7 @@ Apasionado por la programación y la tecnología que hace la vida más fácil. M
 # 📊 Estatus en GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=alets25&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alets25&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alets25&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alets25&icon=0&color=0)](https://visitcount.itsvg.in)
