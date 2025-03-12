@@ -1,7 +1,7 @@
 # 💫 Acerca de mí:
 Apasionado por la programación y la tecnología que hace la vida más fácil. Me encanta explorar cómo la innovación puede mejorar el día a día de las personas. Gamer en mis ratos libres y amante de los perros y gatos.Siempre buscando aprender algo nuevo y divertido.
 
-Soy ingeniero en sistemas con 10 años de experiencia en desarrollo de software y una pasión por crear soluciones tecnológicas que realmente impacten el día a día de las personas. Me encanta trabajar en proyectos donde la innovación se cruza con lo práctico, porque creo que la tecnología debe ser una herramienta para mejorar nuestras vidas.
+Soy ingeniero en sistemas con 8 años de experiencia en desarrollo de software y una pasión por crear soluciones tecnológicas que realmente impacten el día a día de las personas. Me encanta trabajar en proyectos donde la innovación se cruza con lo práctico, porque creo que la tecnología debe ser una herramienta para mejorar nuestras vidas.
 
 Además de programar, soy un gran fan de los videojuegos, especialmente de Nintendo (¡sí, crecí con Mario y Zelda!). Cuando no estoy frente a una computadora, probablemente estoy disfrutando del tiempo con mis animalitos ( perro y gatos) y mi familia, que siempre me recuerdan la importancia de los pequeños momentos.Siempre estoy buscando aprender, colaborar y explorar nuevas ideas que puedan marcar la diferencia. Si compartimos intereses o simplemente quieres charlar sobre desarrollo, videojuegos o tecnología, ¡hablemos!
 
